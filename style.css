@@ -55,6 +55,16 @@ h2 {
   margin-right: 20px;
   margin-bottom: 10px;
 }
+.twitter{
+  background-color: #fbf7f0;
+  border: 4px dotted #d9e4dd;
+  border-radius: 10px;
+  box-shadow: 30px 30px 30px rgba(0, 0, 0, .1);
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+}
 
 .card{
   background-color: #fbf7f0;
